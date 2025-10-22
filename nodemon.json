@@ -1,0 +1,6 @@
+{
+  "watch": ["server.js"],
+  "ext": "js,json",
+  "ignore": [".wwebjs_auth/*"],
+  "exec": "node server.js"
+}

@@ -397,7 +397,9 @@ Créditos disponíveis: ${user.credits} (use dentro da plataforma)
 ⚠️ *IMPORTANTE:* Por segurança, altere sua senha no primeiro acesso!
 
 💻 *Como acessar:*
-1. Acesse a plataforma
+🌐 Link da plataforma: https://fmpcatalogo.onrender.com/
+
+1. Acesse o link acima
 2. Faça login com seu telefone/email
 3. Use a senha temporária acima
 4. Altere para uma senha pessoal
@@ -436,7 +438,8 @@ Sua renovação automática está DESATIVADA.
 Para não perder o acesso, renove sua assinatura antes do vencimento.
 
 🔄 *Como renovar:*
-1. Acesse a plataforma Hub.la
+🌐 Acesse: https://fmpcatalogo.onrender.com/
+1. Faça login na plataforma
 2. Vá em "Minhas Assinaturas"
 3. Clique em "Renovar"`
 }
@@ -470,10 +473,11 @@ Sua assinatura do FMP REPASSES expirou e seu acesso foi desativado.
 • Você pode renovar a qualquer momento
 
 💚 *Como renovar e reativar:*
-1. Acesse a plataforma Hub.la
-2. Faça login com suas credenciais
-3. Vá em "Minhas Assinaturas"
-4. Clique em "Renovar Assinatura"
+🌐 Acesse: https://fmpcatalogo.onrender.com/
+
+1. Faça login com suas credenciais
+2. Vá em "Minhas Assinaturas"
+3. Clique em "Renovar Assinatura"
 
 ✨ Após a renovação, seu acesso será reativado automaticamente!
 
